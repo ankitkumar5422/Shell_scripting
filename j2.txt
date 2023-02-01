@@ -1,0 +1,32 @@
+HTTP/2 200 
+cache-control: max-age=3600, public
+content-language: en
+content-type: text/html; charset=UTF-8
+etag: W/"1674547370"
+expires: Sun, 19 Nov 1978 05:00:00 GMT
+last-modified: Tue, 24 Jan 2023 08:02:50 GMT
+permissions-policy: interest-cohort=()
+referrer-policy: no-referrer-when-downgrade
+server: nginx
+strict-transport-security: max-age=1000; includeSubDomains
+strict-transport-security: max-age=300
+x-content-type-options: nosniff
+x-drupal-cache: HIT
+x-drupal-dynamic-cache: UNCACHEABLE
+x-frame-options: SAMEORIGIN
+x-generator: Drupal 9 (https://www.drupal.org)
+x-pantheon-styx-hostname: styx-fe1-a-cb9f65888-k7dcb
+x-styx-req-id: 8094164a-9bbd-11ed-8d48-1a79f210b4ea
+x-ua-compatible: IE=edge
+x-xss-protection: 1
+age: 734
+accept-ranges: bytes
+via: 1.1 varnish, 1.1 varnish, 1.1 varnish, 1.1 varnish
+date: Tue, 24 Jan 2023 09:15:08 GMT
+x-served-by: cache-chi-klot8100123-CHI, cache-del21738-DEL, cache-del21745-DEL, cache-del21745-DEL
+x-cache: HIT, HIT, MISS, MISS
+x-cache-hits: 15, 11, 0, 0
+x-timer: S1674551709.533747,VS0,VE4
+vary: Accept-Encoding, Cookie, Cookie, Cookie, orig-host
+content-length: 106995
+
